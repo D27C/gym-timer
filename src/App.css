@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: rgb(34, 34, 34);
+  height: 150px;
+  padding: 20px;
+  color: rgb(235, 235, 31);
+}
+
+.button {
+  background-color: rgb(34, 34, 34);
+  color: yellow;
+  padding: 1em;
+  margin: 1em; 
+}
+
+.timerStyle {
+  font-size: 3em;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
